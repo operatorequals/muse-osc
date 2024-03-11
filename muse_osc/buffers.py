@@ -1,6 +1,6 @@
 import numpy as np
 
-import utils as muselsl_utils
+import muse_osc.utils as muselsl_utils
 
 # Modify these to change aspects of the signal processing
 

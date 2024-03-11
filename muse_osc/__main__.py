@@ -5,7 +5,7 @@ from pythonosc import udp_client
 from threading import Thread
 from time import sleep
 
-from buffers import BandCalculator, ELEMENTS, BANDS
+from muse_osc.buffers import BandCalculator, ELEMENTS, BANDS
 
 class LslToOscStreamer:
 
